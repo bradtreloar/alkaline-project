@@ -10,11 +10,11 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/bradtreloar/alkaline-base"
+            "url": "https://github.com/bradtreloar/alkaline"
         }
     ],
     "require": {
-        "bradtreloar/alkaline-base": "8.x-dev",
+        "bradtreloar/alkaline": "8.x-dev",
         "composer/installers": "^1.2",
         "cweagans/composer-patches": "^1.6.5",
         "drupal-composer/drupal-scaffold": "^2.5",
