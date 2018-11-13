@@ -10,7 +10,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/bradtreloar/alkaline"
+            "url": "https://github.com/bradtreloar/alkaline-base"
         }
     ],
     "require": {
