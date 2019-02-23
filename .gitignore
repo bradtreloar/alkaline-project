@@ -31,3 +31,7 @@
 
 # Ignore .env files as they are personal
 /.env
+
+# Ignore PHP error log
+error_log
+
