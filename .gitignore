@@ -1,9 +1,6 @@
 # Ignore binaries
 /bin/
 
-# Ignore exported config
-/config/
-
 # Ignore exported data
 /data/
 
